@@ -1,8 +1,13 @@
 ## Punch Speed
 
-You can use the [editor on GitHub](https://github.com/Adrian-Cruz/punchspeed.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Do you punch like a baby?
+Do you punch like a pro?
+Who knows.
+Punch Speed is an entertainment application designed to measure the speed of your punch.
+The device calculates the power of your shot and shows your level with a funny image.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So what are you waiting for? Try it and challenge your friends.
+
 
 ### Markdown
 
