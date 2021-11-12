@@ -10,7 +10,7 @@ So what are you waiting for? Try it and challenge your friends.
 
 
 
-![Book 4](/punchspeed/4.png)
+![Book 4](/4.png)
 
 
 ### Markdown
