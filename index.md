@@ -9,6 +9,10 @@ The device calculates the power of your shot and shows your level with a funny i
 So what are you waiting for? Try it and challenge your friends.
 
 
+
+![Book 4](/punchspeed/4.png)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -16,7 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![Book 4](/punchspeed/4.png)
+
 
 
 # Header 1
