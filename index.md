@@ -16,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![Book 1](/punchspeed/1.png)
+![Book 4](/punchspeed/4.png)
 
 
 # Header 1
