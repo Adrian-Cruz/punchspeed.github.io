@@ -10,6 +10,7 @@ So what are you waiting for? Try it and challenge your friends.
 
 
 
+![Book instruction](/instruction.png)
 ![Book 4](/4.png)
 ![Book 6](/6.png)
 ![Book 7](/7.png)
